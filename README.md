@@ -102,8 +102,16 @@
 <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ff8c00" alt="Git" />
 <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=ffd700" alt="MySQL" />
 
+<br/><br/>
 
+<!-- 🐍 SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauearon/kauearon/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauearon/kauearon/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kauearon/kauearon/output/github-snake-dark.svg" width="100%" />
+</picture>
 
+<br/><br/>
 
 <!-- VISITOR COUNTER -->
 <img src="https://komarev.com/ghpvc/?username=Kauearon&color=ff4500&style=for-the-badge&label=🔥+PROFILE+VIEWS" alt="Profile Views" />
