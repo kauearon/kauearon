@@ -100,29 +100,8 @@
 <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ff8c00" alt="Git" />
 <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=ffd700" alt="MySQL" />
 
-<br/><br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- TROPHY                                                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/Kauearon">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Kauearon&theme=darkhub&no-bg=true&no-frame=true&column=6&title_color=ffd700" alt="GitHub Trophy" />
-</a>
-
-<br/><br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- SNAKE ANIMATION                                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kauearon/Kauearon/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kauearon/Kauearon/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Kauearon/Kauearon/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-<br/><br/>
 
 <!-- VISITOR COUNTER -->
 <img src="https://komarev.com/ghpvc/?username=Kauearon&color=ff4500&style=for-the-badge&label=🔥+PROFILE+VIEWS" alt="Profile Views" />
