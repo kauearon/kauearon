@@ -10,8 +10,10 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%94%A5+Hi%2C+I'm+Kaue+Aron;Full+Stack+Dev+%7C+Code+%26+Fire+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&repeat=true&width=500&height=45&lines=%F0%9F%94%A5+Hi%2C+I'm+Kaue+Aron+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=2000&color=ff4500&center=true&vCenter=true&repeat=true&width=380&height=30&lines=Full+Stack+Dev+%7C+Code+%26+Fire" alt="Subtitle" />
 
 <br/><br/>
 
