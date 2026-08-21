@@ -17,9 +17,9 @@
 
 <br/><br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- MAIN CONTENT: STATS + CHARIZARD CARD                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ========================================================================= -->
+<!-- MAIN CONTENT: STATS + CHARIZARD CARD                                      -->
+<!-- ========================================================================= -->
 
 <table>
 <tr>
@@ -58,19 +58,19 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- CONTRIBUTION GRAPH                                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ========================================================================= -->
+<!-- CONTRIBUTION GRAPH                                                        -->
+<!-- ========================================================================= -->
 
 <a href="https://github.com/Kauearon">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kauearon&bg_color=0d1117&color=ff8c00&line=ff4500&point=ffd700&area=true&area_color=ff4500&hide_border=true&custom_title=🔥%20Contribuições%20no%20último%20ano" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kauearon&bg_color=0d1117&color=ff8c00&line=ff4500&point=ffd700&area=true&area_color=ff4500&hide_border=true&custom_title=📈%20Contribuições%20no%20último%20ano" alt="Activity Graph" />
 </a>
 
 <br/><br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- SOCIAL / LINKS BUTTONS                                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ========================================================================= -->
+<!-- SOCIAL / LINKS BUTTONS                                                    -->
+<!-- ========================================================================= -->
 
 <a href="https://github.com/Kauearon">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffd700" alt="GitHub" />
@@ -86,11 +86,11 @@
 
 <br/><br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- TECH STACK                                                  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ========================================================================= -->
+<!-- TECH STACK                                                                -->
+<!-- ========================================================================= -->
 
-### 🔥 Tech Stack
+### 💻 Tech Stack
 
 <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=ff4500" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=ff8c00" alt="CSS3" />
@@ -114,7 +114,7 @@
 <br/><br/>
 
 <!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=Kauearon&color=ff4500&style=for-the-badge&label=🔥+PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Kauearon&color=ff4500&style=for-the-badge&label=👁️+PROFILE+VIEWS" alt="Profile Views" />
 
 <br/><br/>
 
