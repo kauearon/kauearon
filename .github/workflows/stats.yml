@@ -1,0 +1,43 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch:      # Allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&text_color=ff8c00&title_color=ffd700&icon_color=ff4500&border_color=ff4500
+          path: output/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=donut&hide_border=true&bg_color=0d1117&text_color=ff8c00&title_color=ffd700&border_color=ff4500&langs_count=6
+          path: output/github-top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      # Streak stats are stable right now, but we can generate them locally in the future if they fail
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4.0.0
+        with:
+          target_branch: output
+          build_dir: output
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

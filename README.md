@@ -27,14 +27,22 @@
 
 <!-- GITHUB STATS -->
 <a href="https://github.com/Kauearon">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Kauearon&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&text_color=ff8c00&title_color=ffd700&icon_color=ff4500&border_color=ff4500" alt="GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauearon/kauearon/output/github-stats.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauearon/kauearon/output/github-stats.svg" />
+    <img width="100%" alt="GitHub Stats" src="https://raw.githubusercontent.com/kauearon/kauearon/output/github-stats.svg" />
+  </picture>
 </a>
 
 <br/>
 
 <!-- TOP LANGUAGES -->
 <a href="https://github.com/Kauearon">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauearon&layout=donut&hide_border=true&bg_color=0d1117&text_color=ff8c00&title_color=ffd700&border_color=ff4500&langs_count=6" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauearon/kauearon/output/github-top-langs.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauearon/kauearon/output/github-top-langs.svg" />
+    <img width="100%" alt="Top Languages" src="https://raw.githubusercontent.com/kauearon/kauearon/output/github-top-langs.svg" />
+  </picture>
 </a>
 
 <br/>
@@ -58,15 +66,7 @@
 
 <br/>
 
-<!-- ========================================================================= -->
-<!-- CONTRIBUTION GRAPH                                                        -->
-<!-- ========================================================================= -->
 
-<a href="https://github.com/Kauearon">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kauearon&bg_color=0d1117&color=ff8c00&line=ff4500&point=ffd700&area=true&area_color=ff4500&hide_border=true&custom_title=📈%20Contribuições%20no%20último%20ano" alt="Activity Graph" />
-</a>
-
-<br/><br/>
 
 <!-- ========================================================================= -->
 <!-- SOCIAL / LINKS BUTTONS                                                    -->
@@ -95,12 +95,14 @@
 <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=ff4500" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=ff8c00" alt="CSS3" />
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=ffd700" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=ff4500" alt="Node.js" />
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=ff8c00" alt="React" />
+<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ffd700" alt="Java" />
 <img src="https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=ff4500" alt="Kotlin" />
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ff8c00" alt="Python" />
-<img src="https://img.shields.io/badge/Portugol-0d1117?style=for-the-badge&logo=code&logoColor=ffd700" alt="Portugol" />
-<img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=ff4500" alt="Figma" />
+<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=sqlite&logoColor=ffd700" alt="SQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=ff4500" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ff8c00" alt="Git" />
-<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=ffd700" alt="MySQL" />
 
 <br/><br/>
 
